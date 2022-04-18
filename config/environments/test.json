@@ -1,0 +1,20 @@
+
+  {
+      "port": 4000,
+  "db": {
+    "username": "root",
+    "password": null,
+    "name": "productbox",
+    "host": "127.0.0.1"
+  },
+  "auth0_primary": {
+    "clientId": "",
+    "clientSecret": "",
+    "domain": "",
+    "connection": ""
+  },
+  "auth0_secondary": {
+    "clientId": "",
+    "clientSecret": ""
+  }
+}

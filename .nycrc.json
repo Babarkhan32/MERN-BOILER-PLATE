@@ -1,0 +1,8 @@
+{
+    "all": false,
+    "extension": [".js", ".cjs", ".mjs", ".ts", ".tsx", ".jsx"],
+    "reporter": ["text", "html"],
+    "report-dir": "./coverage",
+    "temp-dir": "./.nyc_output"
+  }
+  

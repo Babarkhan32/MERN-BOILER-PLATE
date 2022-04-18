@@ -1,0 +1,19 @@
+
+{ "port": 4000,
+  "db": {
+    "username": "root",
+    "password": null,
+    "name": "productbox",
+    "host": "mongodb://localhost:27017"
+  },
+  "auth0_primary": {
+    "clientId": "",
+    "clientSecret": "",
+    "domain": "",
+    "connection": ""
+  },
+  "auth0_secondary": {
+    "clientId": "",
+    "clientSecret": ""
+  }
+}
